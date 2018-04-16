@@ -17,3 +17,5 @@ ____________________________
 Results:
 ____________________________
 The JSON file will be created in the resources folder.
+
+Thanks.
